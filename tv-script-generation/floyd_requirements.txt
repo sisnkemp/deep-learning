@@ -35,6 +35,7 @@ qtconsole
 simplegeneric
 six
 tensorflow
+tensorflow-gpu
 terminado
 testpath
 tornado
